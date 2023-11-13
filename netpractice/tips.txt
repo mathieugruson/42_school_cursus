@@ -1,0 +1,23 @@
+level 6:
+- adresse final a internet a gauche + /25
+
+level 7:
+-mm masque pr tous 255.255.255.252
+-partir de l'IP donnee pr la donnee a tous
+- 5/6 (R22/C1)
+
+level 8 :
+- partir de la meme adresse pour tous de R2
+- mettre le meme masque pr tous
+- 1/2 a gauche (D1/R23)
+- 17/18 a droite (R22/C1)
+
+level 9:
+- 20.0.0.1 (R11)
+- 30.0.0.1 (R22) + masque 255.255.255.0
+- 40.0.0.1 (R12) 
+
+level 10:
+- meme adresse pour R23 et R24 et H13
+- 193/194 (R22/H31)
+adresse R21 pr internet avec 0/24 pr que ca puisse aller partout
