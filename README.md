@@ -4,7 +4,7 @@
 
 <p align="left">My name is Mathieu Gruson. 
 
-In short, I became curious about IT during my studies in Maastricht following LLM about tax and technology. Then, after finishing my law studies at Assas University and doing a long internship in business and criminal law, I decided to take my chance at the 42 school of Paris because in order to 1. quench my curiosity about all these new techs that I was seeing on newspapers 2. because I really think that IT innovations can help a lawyer to better understand, use, interact with the law and, why not, shape the law.
+In short, I became curious about IT during my studies in Maastricht following LLM about tax and technology. Then, after finishing my law studies at Assas University and doing a long internship in business and criminal law, I decided to take my chance at the 42 school of Paris because in order to <br> 1. quench my curiosity about all these new techs that I was seeing on newspapers <br>2. because I really think that IT innovations can help a lawyer to better understand, use, interact with the law and, why not, shape the law.
 <br><br>
 I've just finish the common core of the 42 school and all my work are on the subdirectories.<br><br>You can read it at your own risk (it might sting your eyes) <br><br>But I have learn a lot of stuff and now I am going on new adventures at the intersection of law and IT.<br><br>
 </p>
