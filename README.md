@@ -1,8 +1,8 @@
-<h1 align="left">My journey in 42 school</h1>
+<h1 align="left">All my project from my common core in the 42 school at Paris</h1>
 
 ###
 
-<p align="left">My name is Mathieu Gruson. 
+<p align="left">
 
 In short, I became curious about IT during my studies in Maastricht following LLM about tax and technology. Then, after finishing my law studies at Assas University and doing a long internship in business and criminal law, I decided to take my chance at the 42 school of Paris because in order to <br> 1. quench my curiosity about all these new techs that I was seeing on newspapers <br>2. because I really think that IT innovations can help a lawyer to better understand, use, interact with the law and, why not, shape the law.
 <br><br>
