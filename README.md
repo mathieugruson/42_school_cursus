@@ -4,7 +4,9 @@
 
 <p align="left">
 
-I finish the common core in about one year. The code is never perfect, but I learned a lot. I really liked all this basics like making a libft in C, seeing sorting algorithm, seing network stuff, seing socket or RFC protocol, making a 3D game engine, learning docker and finally all around web : js, css, html, and a lot of frameworks.
+I finish the common core in about one year. The code is never perfect, but I learned a lot. I really liked all this basics like making a libft in C, thread, doing a terminal shell !!!, seeing sorting algorithm, seing network stuff, seing socket or RFC protocol, making a 3D game engine, learning docker and finally all around web : js, css, html, and a lot of frameworks.
+
+But the most important thing we learn here is to never fight again the computer when it does not work until it works!
 
 My last project is about ASM as I have always been curious to go closer and closer to the chip. 
 
