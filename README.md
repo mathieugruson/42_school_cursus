@@ -9,19 +9,6 @@ In short, I became curious about IT during my studies in Maastricht following LL
 I've just finish the common core of the 42 school and all my work are on the subdirectories.<br><br>You can read it at your own risk (it might sting your eyes) <br><br>But I have learn a lot of stuff and now I am going on new adventures at the intersection of law and IT.<br><br>
 </p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-</div>
-
-###
-
 <h2 align="left">Language I have learned during my studies at 42</h2>
 
 ###
